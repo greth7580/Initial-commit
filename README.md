@@ -1,2 +1,2 @@
-# Initial-commit
-belajar github
+# belajargithub
+kita akan mempelajari cara menggunakan github
